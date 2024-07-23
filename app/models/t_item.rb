@@ -1,0 +1,2 @@
+class TItem < ApplicationRecord
+end
